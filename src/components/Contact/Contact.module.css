@@ -1,0 +1,10 @@
+.contactDataWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contactData {
+  font-size: 16px;
+  font-weight: 300;
+  width: 150px;
+}
